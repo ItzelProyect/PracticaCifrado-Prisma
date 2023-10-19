@@ -43,12 +43,12 @@ body {
   margin-top: 40px;
 }
 
-/* Estilo para cambiar el color de las líneas de la tabla */
+/* color de las líneas de la tabla */
 table.table-bordered, table.table-bordered tr, table.table-bordered td {
   border: 4px solid #fa97c7; 
 }
 
-/* Estilo para las líneas alternas de la tabla */
+/* líneas alternas de la tabla */
 table.table-striped tr:nth-child(even) {
   background-color: #f9f9f9; 
 }
